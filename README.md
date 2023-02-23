@@ -15,5 +15,5 @@ NB: Backups happen every 6hrs but you can edit this in the .env
 And that's it! Dbx Harbor should now be up and running, providing you with secure and reliable backups for your valuable data.
 
 ## Credits
-Dbx Harbor was created by [Adedoyin Akande] and is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-If you have any questions or feedback do raise an issue.
+Dbx Harbor was created by Adedoyin and is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+If you have any questions or feedback do send an email.
